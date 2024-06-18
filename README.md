@@ -1,4 +1,4 @@
-EscapeMuseumVR - VR Nanodegree Course 5 Project
+EscapeMuseumVR - Project
 -------------------------------------------------------------------------------
 
 ### About
